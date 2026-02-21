@@ -1,0 +1,1 @@
+my first line in myfile2.text
