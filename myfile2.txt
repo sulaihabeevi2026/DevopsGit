@@ -1,1 +1,2 @@
 my first line in myfile2.text
+my second line in yfile2.txt
